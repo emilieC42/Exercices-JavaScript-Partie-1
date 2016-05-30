@@ -27,7 +27,7 @@ Demander à l’utilisateur deux nombres. Ne garder que la partie entière du pr
 
 ## Exercice 6 :
 
-Dans un fichier séparé, écrire un script permettant de demander à l’utilisateur deux nombres et créer une fonction permettant d’afficher le reste de leur division. L’appeler depuis le fichier html.
+Dans un fichier séparé, créer une fonction permettant d’afficher le reste de leur division. L’appeler depuis le fichier html.
 
 ## Exercice 7 :
 
