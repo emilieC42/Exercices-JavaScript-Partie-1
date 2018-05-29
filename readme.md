@@ -3,7 +3,7 @@
 **IMPORTANT**
 
 Quand cela est nécessaire, le fichier HTML est fourni.  
-Pour la sécurité de votre code, à chaque formulaire verifiez que ce qui est saisi correspond à ce qui est attendu.
+Pour la sécurité de votre code, à chaque formulaire vérifiez que ce qui est saisi correspond à ce qui est attendu.
 
 ## Exercice 1 :
 
@@ -11,7 +11,7 @@ Définir une variable et l'afficher dans une boîte de dialogue.
 
 ## Exercice 2 :
 
-Définir trois variables : *nom*, *prenom* et *ville*. Les afficher comme sur l'image correspondant à l'exercice.
+Définir trois variables : *lastName*, *firstName* et *city*. Les afficher comme sur l'image correspondant à l'exercice.
 
 ## Exercice 3 :
 
@@ -41,7 +41,7 @@ Demander à l’utilisateur sa pointure et son année de naissance. Créer une f
 5. Ajouter au tout 1766
 
 La fonction doit retourner le résultat.
-Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser une seule variable « resultat »**.
+Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser une seule variable de résultat**.
 
 ## Exercice 8 :
 
