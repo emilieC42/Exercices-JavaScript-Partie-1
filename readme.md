@@ -41,7 +41,7 @@ Demander à l’utilisateur sa pointure et son année de naissance. Créer une f
 5. Ajouter au tout 1766
 
 La fonction doit retourner le résultat.
-Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser une seule variable de résultat**.
+Tester avec votre date de naissance et votre pointure. **Attention : n'utiliser qu'une seule variable de résultat**.
 
 ## Exercice 8 :
 
